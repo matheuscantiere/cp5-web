@@ -1,0 +1,40 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.skillsImage {
+  width: 100%;
+}
+
+.experience{
+  justify-content: center;
+}
+
+.text01 {
+  display: flex;
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 200;
+  letter-spacing: 3.75px;
+  justify-content: center;
+}
+
+.text02 {
+  display: flex;
+  color: var(--color-text);
+  font-size: 25px;
+  font-weight: 200;
+  margin-bottom: 30px;
+  letter-spacing: 1.75px;
+  justify-content: center;
+}
+
+.textStrong {
+  color: rgb(92, 92, 247);
+  gap: 10px;
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Turbo",
+    "imageSrc": "projects/projectTurbo.png",
+    "description": "O Turbo, em parceria com a multinacional Tech Mahindra, é uma plataforma interativa sobre Fórmula E, onde usuários acumulam pontos jogando e podem trocá-los por itens exclusivos na loja.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Océan Sûr",
+    "imageSrc": "projects/projectOceanSur.png",
+    "description": "O site da Océan Sûr informa sobre a situação dos oceanos, utilizando IoT com Arduino para monitorar pH, turbidez e temperatura, com uma interface web em JavaScript, HTML e CSS.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
